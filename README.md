@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dag86
 - 👀 a full stack QA Engineer
-![Dag86's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dag86&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dag86&layout=compact&theme=tokyonight)
 

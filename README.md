@@ -38,7 +38,6 @@ under FDA 21 CFR Part 11 compliance.
 
 ![Followers](https://img.shields.io/github/followers/Dag86?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/Dag86?affiliations=OWNER%2CCOLLABORATOR&style=social)
-![Followers](https://img.shields.io/github/followers/Dag86?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/Dag86?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---

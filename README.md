@@ -20,14 +20,17 @@ under FDA 21 CFR Part 11 compliance.
 | Mobile automation | Appium · ADB |
 | Regulated validation (CSV/V&V) | FDA 21 CFR Part 11 · IQ/OQ/PQ · Traceability Matrices |
 | Observability & reporting | Allure · log-based debugging |
-
+| Healthcare interoperability | HL7 FHIR R4 · resource validation · API conformance testing |
 ---
 
 ### Currently Building
 
-Playwright + Ollama RAG pipeline for AI output validation in regulated SaaS
-environments — contract-based assertions, determinism scoring, and CI-gated
-eval runs via GitHub Actions.
+- **FHIR R4 Validation Suite** — API conformance testing against FHIR R4 endpoints
+  using Karate + Newman; resource validation, search parameter assertions, and
+  bundle structure verification targeted at HealthTech SaaS environments
+- **AI Output Validation Pipeline** — Playwright + Ollama RAG stack with
+  contract-based assertions, determinism scoring, and CI-gated eval runs
+  via GitHub Actions
 
 ---
 

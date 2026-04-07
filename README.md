@@ -36,10 +36,8 @@ under FDA 21 CFR Part 11 compliance.
 
 ### GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dag86&layout=compact&theme=tokyonight)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dag86&theme=tokyonight&no-frame=true&row=1&margin-w=10)
-
+![Followers](https://img.shields.io/github/followers/Dag86?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/Dag86?affiliations=OWNER%2CCOLLABORATOR&style=social)
 ![Followers](https://img.shields.io/github/followers/Dag86?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/Dag86?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
